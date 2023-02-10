@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "tact-678e9",
+    "firebase deploy --only functions": "tact-678e9",
+    "stag": "tact-678e9",
+    "tact": "tact-678e9",
+    "sta": "tact-678e9"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "project_info": {
+    "project_number": "22337324137",
+    "project_id": "tact-678e9",
+    "storage_bucket": "tact-678e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22337324137:android:814c4a82a531698cc5cef8",
+        "android_client_info": {
+          "package_name": "com.Trident_Academy_of_Technology.tact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22337324137-im7k2rj3k32e6eibr9eou9hgt004ia6a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Trident_Academy_of_Technology.tact",
+            "certificate_hash": "02af54a7c49b9c7c01d2b44b15d766f23789fb43"
+          }
+        },
+        {
+          "client_id": "22337324137-r15p35u5i7tk1ha65b6foo1q7b7icbh8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Trident_Academy_of_Technology.tact",
+            "certificate_hash": "5cea255f92e5851b12963a21a26e356b3af4118c"
+          }
+        },
+        {
+          "client_id": "22337324137-krqofnleeu21rium3u8lho8osns2j0ud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7H52z5Akey69aRsUDYUUA94spxx7_fyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22337324137-krqofnleeu21rium3u8lho8osns2j0ud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22337324137:android:98bd301a4b04b45cc5cef8",
+        "android_client_info": {
+          "package_name": "com.Trident_Academy_of_Technology.tactadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22337324137-0jlb53dqcejca5a00qjnedeedmdra4q3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Trident_Academy_of_Technology.tactadmin",
+            "certificate_hash": "5cea255f92e5851b12963a21a26e356b3af4118c"
+          }
+        },
+        {
+          "client_id": "22337324137-hv9ne7r186rkb6ovn8ip40edm4l5i2j5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Trident_Academy_of_Technology.tactadmin",
+            "certificate_hash": "02af54a7c49b9c7c01d2b44b15d766f23789fb43"
+          }
+        },
+        {
+          "client_id": "22337324137-krqofnleeu21rium3u8lho8osns2j0ud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7H52z5Akey69aRsUDYUUA94spxx7_fyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22337324137-krqofnleeu21rium3u8lho8osns2j0ud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
